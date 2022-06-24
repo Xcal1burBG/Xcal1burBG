@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xcal1burBG
-- 👀 I’m interested in Rock music, gardening and programming with C#
+- 👀 I’m interested in Rock music and programming with C#
 - 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by email ivalkov1979@gmail.com
